@@ -48,7 +48,7 @@
 ## 🚀 Featured Project
 
 ### [resock](https://github.com/0zyt/resock)
-Go语言开发的匿名隧道代理程序
+A based on Go's proxy
 
 </div>
 
